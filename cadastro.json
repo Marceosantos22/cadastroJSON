@@ -1,0 +1,14 @@
+{
+  "cadastro": [
+    {
+      "nome": "Marcelo Oliveira",
+      "email": "email@email.com.br",
+      "entrada": "2023-10-06",
+      "saida": "2023-10-10",
+      "observacao": "Duas camas de casal",
+      "adultos": "4",
+      "criancas": "1",
+      "id": 1
+    }
+  ]
+}
